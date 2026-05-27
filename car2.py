@@ -1,5 +1,5 @@
 class Car:
-
+    # для интереса я выложил файл на гитхаб 27 мая 2026 года, это мой первый файл
     def __init__(self, brand, country, year, condition):
         self.brand = brand
         self.country = country
